@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.card {
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.9);
+}
+
+.container {
+    padding: 2px 16px;
+    margin: 5px 5px 5px 5px;
+}
+
+.column {
+    column-count: 4;
+    column-gap: 50px;
+    column-rule-style: dashed;
+}
