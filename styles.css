@@ -1,0 +1,7 @@
+/* Creates columns to display content in*/
+.column {
+    column-count: 4;
+    column-gap: 50px;
+    column-rule-style: dashed;
+}
+
